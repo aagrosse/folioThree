@@ -1,0 +1,36 @@
+body {
+    background-image: url(../assets/images/dark_wall.png);
+    background-position: center;
+    
+}
+
+.navbar{
+    background-color:rgb(82,89,97) !important;
+}
+
+.container {
+    padding-top: 60px;
+  }
+  
+  .card {
+    min-height: 260px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+ #profile {
+    border-radius: 20px !important;
+    opacity: 75%;
+  }
+
+  .shadow{
+    box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 1px rgba(0, 0, 0, 0.19);
+  }
+
+  .portIm{
+      padding-top: 1em;
+  }
+
+  

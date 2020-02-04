@@ -10,19 +10,19 @@ A portfolio to showcase my experience and skills using a bootswatch color theme 
 
 ### About Page
 
-![image](assets\images\about.PNG "About Me")
+![image](./assets/images/about.PNG)
 
 ### Portfolio Page
 
-![image](assets\images\portfolio.PNG "Portfolio")
+![image](./assets/images/portfolio.PNG)
 
 ### Resume Page
 
-![image](assets\images\resume.PNG "Resume")
+![image](./assets/images/resume.PNG)
 
 ### Contact Page
 
-![image](assets\images\contact.PNG "Contact")
+![image](./assets/images/contact.PNG)
 
 ## Usage 
 
